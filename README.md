@@ -3,8 +3,8 @@
 
 A living reference document covering the content frameworks, 
 thread structures, and engagement strategies I've developed 
-running @0xbrel and Flow State Weekly — a Nansen-powered 
-institutional Bitcoin intelligence newsletter.
+running @0xbrel and Flow State Weekly a Nansen powered 
+institutional intelligence newsletter.
 
 Built from 4+ years operating inside crypto Twitter and Web3 
 media ecosystems.
